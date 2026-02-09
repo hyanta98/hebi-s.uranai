@@ -1,3 +1,4 @@
+[hidemenubutton]
 [preload  storage="./data/bgimage/haikei01.png"  ]
 [preload  storage="./data/fgimage/chara/1/amami2.png"  ]
 [preload  storage="./data/fgimage/chara/1/amami1.png"  ]
@@ -15,10 +16,8 @@
 [preload  storage="./data/fgimage/chara/1/amami4.1.png"  ]
 [preload  storage="./data/fgimage/chara/1/amami6.png"  ]
 [preload  storage="./data/bgimage/white.png"  ]
-[preload  storage="./data/bgm/quiz_op-1.mp3"  ]
 
 [cm  ]
-[hidemenubutton]
 
 [bg  storage="haikei01.png"  time="1000"  ]
 [tb_start_tyrano_code]

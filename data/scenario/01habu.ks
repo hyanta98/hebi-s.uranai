@@ -6,7 +6,7 @@
 [tb_hide_message_window  ]
 [chara_hide  name="amami"  time="1000"  wait="true"  pos_mode="true"  ]
 [mask_off  time="200"  effect="fadeOut"  ]
-[playse  volume="100"  time="1000"  buf="0"  storage="きらきら輝く1.mp3"  ]
+[playse  volume="60"  time="1000"  buf="0"  storage="きらきら輝く1.mp3"  ]
 [chara_show  name="habu"  time="1000"  wait="true"  storage="chara/2/habu0.png"  width="400"  height="460"  left="131"  top="250"  reflect="false"  ]
 [wait  time="500"  ]
 [chara_mod  name="habu"  time="600"  cross="true"  storage="chara/2/habu1.png"  ]

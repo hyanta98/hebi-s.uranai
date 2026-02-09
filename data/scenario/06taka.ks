@@ -15,7 +15,7 @@
 [chara_move  name="taka"  anim="false"  time="300"  effect="linear"  wait="true"  left="53"  top="234"  width="257"  height="297"  ]
 [wait  time="300"  ]
 [tb_eval  exp="f.name+='の診断結果'"  name="name"  cmd="+="  op="t"  val="の診断結果"  val_2="undefined"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="quiz_ed-1(1).mp3"  ]
+[playbgm  volume="60"  time="1000"  loop="true"  storage="quiz_ed-1(1).mp3"  ]
 [tb_start_tyrano_code]
 [plugin name="ptext_align"]
 [ptext name="align_ct_h" layer="0" x="0" y="43" size="35" color="0x4a4949" text="&f.name" bold=bold face=gothic]

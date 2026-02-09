@@ -25,7 +25,7 @@
 [_tb_end_tyrano_code]
 
 [chara_show  name="amami"  time="1000"  wait="true"  left="117"  top="48"  width=""  height=""  reflect="false"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="quiz_op-1.mp3"  ]
+[playbgm  volume="60"  time="1000"  loop="true"  storage="quiz_op-1.mp3"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=2 ]
 は～い♪ あたしの名前は『あま美』[l][r]
@@ -110,7 +110,7 @@
 [stopbgm  time="1000"  ]
 [chara_mod  name="amami"  time="0"  cross="true"  storage="chara/1/amami1.png"  ]
 [tb_image_show  time="0"  storage="default/q1.png"  width="400"  height="100"  x="132"  y="650"  _clickable_img=""  name="img_52"  ]
-[playbgm  volume="100"  time="1000"  loop="true"  storage="quiz(1).mp3"  ]
+[playbgm  volume="60"  time="1000"  loop="true"  storage="quiz(1).mp3"  ]
 [wait  time="2000"  ]
 [tb_image_hide  time="0"  ]
 [tb_show_message_window  ]

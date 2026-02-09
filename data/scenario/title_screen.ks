@@ -1,4 +1,5 @@
-[_tb_system_call storage=system/_title_screen.ks]
+[preload  storage="./data/bgimage/title01.png"  ]
+[preload  storage="./data/fgimage/default/uranau.png"  ]
 
 [hidemenubutton]
 

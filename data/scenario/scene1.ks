@@ -15,6 +15,7 @@
 [preload  storage="./data/fgimage/chara/1/amami4.1.png"  ]
 [preload  storage="./data/fgimage/chara/1/amami6.png"  ]
 [preload  storage="./data/bgimage/white.png"  ]
+[preload  storage="./data/bgm/quiz_op-1.mp3"  ]
 
 [cm  ]
 [hidemenubutton]

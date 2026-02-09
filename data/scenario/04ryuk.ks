@@ -1,4 +1,14 @@
-[_tb_system_call storage=system/_04ryuk.ks]
+[preload  storage="./data/fgimage/chara/5/ryuk1.png"  ]
+[preload  storage="./data/bgimage/ryuk-sk.png"  ]
+[preload  storage="./data/fgimage/default/type-a.png"  ]
+[preload  storage="./data/fgimage/default/ryuk-a.png"  ]
+[preload  storage="./data/fgimage/default/type-b.png"  ]
+[preload  storage="./data/fgimage/default/ryuk-b.png"  ]
+[preload  storage="./data/fgimage/default/type-c.png"  ]
+[preload  storage="./data/fgimage/default/ryuk-c.png"  ]
+[preload  storage="./data/fgimage/default/type-d.png"  ]
+[preload  storage="./data/fgimage/default/ryuk-d.png"  ]
+[preload  storage="./data/bgimage/title01.png"  ]
 
 *kekka
 

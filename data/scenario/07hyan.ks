@@ -1,4 +1,14 @@
-[_tb_system_call storage=system/_07hyan.ks]
+[preload  storage="./data/fgimage/chara/8/hyan1.png"  ]
+[preload  storage="./data/bgimage/hyan-sk.png"  ]
+[preload  storage="./data/fgimage/default/type-a.png"  ]
+[preload  storage="./data/fgimage/default/hyan-a.png"  ]
+[preload  storage="./data/fgimage/default/type-b.png"  ]
+[preload  storage="./data/fgimage/default/hyan-b.png"  ]
+[preload  storage="./data/fgimage/default/type-c.png"  ]
+[preload  storage="./data/fgimage/default/hyan-c.png"  ]
+[preload  storage="./data/fgimage/default/type-d.png"  ]
+[preload  storage="./data/fgimage/default/hyan-d.png"  ]
+[preload  storage="./data/bgimage/title01.png"  ]
 
 *kekka
 
